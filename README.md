@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FatalTrip
+- 👀 I’m interested in ... Furthering my knowledge in code.
+- 🌱 I’m currently learning ... Python :)
+- 💞️ I’m looking to collaborate on ... any beginner projects I can try to read and interpret.
